@@ -103,15 +103,6 @@ A Spotify-inspired music streaming interface with interactive frontend features 
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lavish-0027&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavish-0027&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-
-</div>
 
 ## 🔥 GitHub Streak
 
