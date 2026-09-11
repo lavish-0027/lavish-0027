@@ -118,13 +118,7 @@ A Spotify-inspired music streaming interface with interactive frontend features 
 
 ## 📈 My Coding Journey
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lavish-0027&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
+> Building consistently through coding, projects, and problem-solving.
 
 ## 🏆 Certifications & Activities
 
