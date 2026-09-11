@@ -102,7 +102,9 @@ A full-stack application for creating, sharing and automatically grading interac
 A Spotify-inspired music streaming interface with interactive frontend features and YouTube-based real-time music playback.
 
 ---
+## 📊 GitHub Statistics
 
+> GitHub statistics will be added with a reliable self-hosted setup.
 
 ## 🔥 GitHub Streak
 
