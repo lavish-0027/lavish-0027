@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./lavish-profile.jpg.jpeg" width="180" />
+
 # 👋 Hi, I'm Lavish Kumar
 
 ### Computer Science & Engineering Student | AI & ML
