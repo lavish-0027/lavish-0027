@@ -113,8 +113,12 @@ A Spotify-inspired music streaming interface with interactive frontend features 
 <img src="https://streak-stats.demolab.com?user=lavish-0027&theme=tokyonight&hide_border=true" />
 
 </div>
-
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lavish-0027/lavish-0027/output/github-snake.svg" alt="GitHub Contribution Snake">
+</div>
+
 
 ## 📈 My Coding Journey
 
